@@ -1,0 +1,255 @@
+.container{
+   display:flex;
+}
+.topnav {
+    border: none;
+    background-color: #333333;
+    position: absolute;
+    width: 1280px;
+    height: 39px;
+    left: 0px;
+    top: 0px;
+}
+.topnav-1 {
+    border: none;
+    background-color: #1E1E1E;
+    position: absolute;
+    width: 1280px;
+    height:75px;
+    left: 0px;
+    top: 39px;
+}
+.topnav-2 {
+    border: none;
+    background-color: #111112;
+    position: absolute;
+    width: 1280px;
+    height: 39px;
+    left: 0px;
+    top: 114px;
+}
+.pic-1 {
+    position: absolute;
+    width: 271px;
+    height: 312px;
+    left: 0px;
+    top: 153px;
+}
+.pic-2 {
+    position: absolute;
+    width: 227px;
+    height: 171px;
+    left: 187px;
+    top: 153px;
+}
+.pic-3 {
+    position: absolute;
+    width: 173px;
+    height: 207px;
+    left: 437px;
+    top: 153px;
+}
+.pic-4 {
+    position: absolute;
+    width: 251px;
+    height: 164.88px;
+    left: 629px;
+    top: 175px;
+}
+.pic-5 {
+    position: absolute;
+    width: 119px;
+    height: 180px;
+    left: 889px;
+    top: 153px;
+}
+.pic-6 {
+    position: absolute;
+    width: 303px;
+    height: 380px;
+    left: 1024px;
+    top: 153px;
+}
+.pic-7 {
+    position: absolute;
+    width: 68px;
+    height: 101px;
+    left: 187px;
+    top: 360px;
+}
+.pic-8 {
+    position: absolute;
+    width: 91px;
+    height: 124px;
+    left: 260px;
+    top: 337px;
+}
+.pic-9 {
+    position: absolute;
+    width: 150px;
+    height: 268px;
+    left: 0px;
+    top: 468px;
+}
+.pic-10 {
+    position: absolute;
+    width: 200px;
+    height: 252px;
+    left: 151px;
+    top: 468px;
+}
+.pic-11 {
+    position: absolute;
+    width: 244px;
+    height: 368px;
+    left: 368px;
+    top: 374px;
+}
+.pic-12 {
+    position: absolute;
+    width: 247px;
+    height: 161.55px;
+    left: 629px;
+    top: 374px;
+}
+.pic-13 {
+    position: absolute;
+    width: 146px;
+    height: 195px;
+    left: 629px;
+    top: 540px;
+}
+.pic-14 {
+    position: absolute;
+    width: 237px;
+    height: 180px;
+    left: 782px;
+    top: 540px;
+}
+.pic-15 {
+    position: absolute;
+    width: 125px;
+    height: 192px;
+    left: 886px;
+    top: 344px;
+}
+.pic-16 {
+    position: absolute;
+    width: 180px;
+    height: 256px;
+    left: 1024px;
+    top: 540px;
+}
+.pic-t1 {
+    position: absolute;
+    width: 608px;
+    height: 797px;
+    top: 856px;
+    left: 37px;
+}
+.pic-t2 {
+    position: absolute;
+    width: 547px;
+    height: 798px;
+    left: 673.5px;
+    top: 856px;
+}
+.pic-t3 {
+    position: absolute;
+    width: 31px;
+    height: 797px;
+    Top:856px; 
+    Left:1249px;
+}
+.pic-t4 {
+    position: absolute;
+    width: 303px;
+    height: 380px;
+    left: 36px;
+    top: 1841px;
+}
+
+.pic-t5 {
+    position: absolute;
+    width: 302px;
+    height: 519px;
+    left: 37px;
+    top: 2401px;
+}
+.text {
+    position: absolute;
+    width: 302px;
+    height: 519px;
+    left: 37px;
+    top: 790px;
+}
+.text-1 {
+    position: absolute;
+    width: 283px;
+    height: 36px;
+    left: 37px;
+    top: 1778px;
+}
+.pic-b1 {
+    position: absolute;
+    width: 303px;
+    height: 380px;
+    left: 36px;
+    top: 1841px;
+}
+.pic-b2 {
+    position: absolute;
+    width: 303px;
+    height: 380px;
+    left: 368px;
+    top: 1841px;
+}
+.pic-b3 {
+    position: absolute;
+    width: 303px;
+    height: 380px;
+    left: 703px;
+    top: 1841px;
+}
+.pic-b4 {
+    position: absolute;
+    width: 303px;
+    height: 380px;
+    left: 1036px;
+    top: 1841px;
+}
+.text-2 {
+    position: absolute;
+    width: 170px;
+    height: 56px;
+    left: 36px;
+    top: 2318px;
+}
+.pic-l1 {
+    position: absolute;
+    width: 302px;
+    height: 519px;
+    left: 37px;
+    top: 2401px;
+}
+.pic-l2 {
+    position: absolute;
+    width: 302px;
+    height: 519px;
+    left: 368px;
+    top: 2405px;
+}
+.pic-l3 {
+    position: absolute;
+    width: 302px;
+    height: 519px;
+    left: 704px;
+    top: 2408px;
+}
+.pic-l4 {
+    position: absolute;
+    width: 302px;
+    height: 519px;
+    left: 1035px;
+    top: 2405px;
+}
